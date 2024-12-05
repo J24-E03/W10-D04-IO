@@ -1,0 +1,10 @@
+Laptop,D1001,15,1000.5
+Smartphone,D1002,10,500.75
+Headphones,D1003,15,150.3
+Monitor,D1004,7,200.99
+Keyboard,D1005,12,50.0
+Mouse,D1006,20,25.99
+Printer,D1007,3,300.49
+Desk,D1008,4,120.0
+Chair,D1009,6,85.5
+Webcam,D1010,8,60.75
