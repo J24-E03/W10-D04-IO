@@ -1,0 +1,15 @@
+The Great Gatsby,F. Scott Fitzgerald,180,true,true,null,null,null
+To Kill a Mockingbird,Harper Lee,281,true,false,2024-11-15,2024-12-03,null
+1984,George Orwell,328,true,true,null,null,null
+Pride and Prejudice,Jane Austen,432,false,true,null,null,null
+Moby Dick,Herman Melville,585,false,true,null,null,null
+The Catcher in the Rye,J.D. Salinger,277,true,false,2024-11-25,2024-12-09,null
+Brave New World,Aldous Huxley,311,true,true,null,null,null
+War and Peace,Leo Tolstoy,1225,false,false,2024-11-05,2024-11-19,null
+The Odyssey,Homer,541,false,true,null,null,null
+The Alchemist,Paulo Coelho,208,true,true,null,null,null
+The Book Thief,Markus Zusak,552,true,false,2024-11-24,2024-12-08,null
+The Hobbit,J.R.R. Tolkien,310,true,true,null,null,null
+Crime and Punishment,Fyodor Dostoevsky,671,false,true,null,null,null
+The Road,Cormac McCarthy,287,false,false,2024-11-30,2024-12-14,null
+Frankenstein,Mary Shelley,280,false,true,null,null,null
