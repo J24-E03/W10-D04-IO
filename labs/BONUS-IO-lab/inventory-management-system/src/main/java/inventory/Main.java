@@ -1,9 +1,7 @@
 package inventory;
-
-import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Scanner;
-import java.util.concurrent.ExecutionException;
+
 
 public class Main {
     private static Path productsPath = Path.of("products.txt");

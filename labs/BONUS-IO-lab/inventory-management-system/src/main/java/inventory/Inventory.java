@@ -7,7 +7,7 @@ import java.util.List;
 
 public class Inventory {
     private static List<Product> products = new ArrayList<>();
-    private Path productsPath;
+    private final Path productsPath;
     public Inventory (Path productsPath) {
         this.productsPath = productsPath;
     }
