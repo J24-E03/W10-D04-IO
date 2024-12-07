@@ -1,0 +1,3 @@
+Chocolate,101,9,20.0
+Lays,102,3,10.0
+Soft Drink,103,4,10.0
